@@ -16,7 +16,7 @@ Upload the relevant primary board script to the primary board.
 The secondary board script is the same for both components. The exact same secondary board script could be uploaded to any additional secondary boards (make sure to adjust the primary board script as stated below).
 
 If you want to:
- -change the total number of Touch Boards (now 2)
+- change the total number of Touch Boards (now 2)
 - change the amount of sub-LEDstrips (now 4)
 - change the amount of LEDs per sub-strip (now varying sizes)
 - or change the colours of sub-strips (now red, green, tule & blue) you can do so by searching 'ADJUST' inside the scripts. There it will be stated when to adjust, what to adjust and in which line this should be done.
